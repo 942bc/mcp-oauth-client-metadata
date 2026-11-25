@@ -1,0 +1,15 @@
+{
+  "client_id": "https://942bc.github.io/mcp-oauth-client-metadata/oauth-client-metadata.json",
+  "client_name": "乾策智能体平台",
+  "redirect_uris": [
+    "http://localhost:8020/ai-platform/mcp-oauth-callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
